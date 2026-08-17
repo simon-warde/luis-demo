@@ -1,0 +1,31 @@
+# Line endings.
+#
+# Git for Windows sets core.autocrlf=true by default, which rewrites text files
+# to CRLF on checkout. That produces "LF will be replaced by CRLF" warnings and
+# phantom diffs when the same repo is used from another machine or from WSL.
+# These rules override it: LF everywhere, in the repository and on disk.
+
+# Default for anything Git detects as text.
+* text=auto eol=lf
+
+# Be explicit for the file types this project actually contains, so the
+# intent survives even if the default above is ever relaxed.
+*.py        text eol=lf
+*.json      text eol=lf
+*.md        text eol=lf
+*.sql       text eol=lf
+*.csv       text eol=lf
+*.cfg       text eol=lf
+*.toml      text eol=lf
+.gitignore  text eol=lf
+.gitattributes text eol=lf
+
+# Never apply end-of-line or diff munging to binaries. None are tracked today,
+# but football-data.co.uk also publishes .xlsx, so these are worth pinning.
+*.xls  binary
+*.xlsx binary
+*.zip  binary
+*.gz   binary
+*.png  binary
+*.jpg  binary
+*.pdf  binary
