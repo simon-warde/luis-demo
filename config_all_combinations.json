@@ -1,0 +1,5599 @@
+{
+  "description": "Every season/division results CSV available from the football-data.co.uk main archive (mmz4281). Excel downloads and the whole-history 'extra league' files under /new/ are excluded.",
+  "base_url": "https://www.football-data.co.uk/mmz4281",
+  "output_dir": "data",
+  "downloads": [
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/B1.csv"
+    },
+    {
+      "country": "Belgium",
+      "division_code": "B1",
+      "division_name": "Jupiler League",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/B1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Division 1",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "Division 2",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "Division 3",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/EC.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "EC",
+      "division_name": "Conference",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/EC.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F1",
+      "division_name": "Le Championnat",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/F1.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/F2.csv"
+    },
+    {
+      "country": "France",
+      "division_code": "F2",
+      "division_name": "Division 2",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/F2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D1",
+      "division_name": "Bundesliga 1",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/D1.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/D2.csv"
+    },
+    {
+      "country": "Germany",
+      "division_code": "D2",
+      "division_name": "Bundesliga 2",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/D2.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/G1.csv"
+    },
+    {
+      "country": "Greece",
+      "division_code": "G1",
+      "division_name": "Ethniki Katigoria",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/G1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/I2.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I1",
+      "division_name": "Serie A",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/I1.csv"
+    },
+    {
+      "country": "Italy",
+      "division_code": "I2",
+      "division_name": "Serie B",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/I2.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/N1.csv"
+    },
+    {
+      "country": "Netherlands",
+      "division_code": "N1",
+      "division_name": "Eredivisie",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/N1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/P1.csv"
+    },
+    {
+      "country": "Portugal",
+      "division_code": "P1",
+      "division_name": "Liga I",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/P1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/SC3.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC0",
+      "division_name": "Premier League",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/SC0.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC1",
+      "division_name": "Division 1",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/SC1.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC2",
+      "division_name": "Division 2",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/SC2.csv"
+    },
+    {
+      "country": "Scotland",
+      "division_code": "SC3",
+      "division_name": "Division 3",
+      "season_code": "2627",
+      "season_label": "2026/2027",
+      "url": "https://www.football-data.co.uk/mmz4281/2627/SC3.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "9394",
+      "season_label": "1993/1994",
+      "url": "https://www.football-data.co.uk/mmz4281/9394/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/SP2.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP1",
+      "division_name": "La Liga Primera Division",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/SP1.csv"
+    },
+    {
+      "country": "Spain",
+      "division_code": "SP2",
+      "division_name": "La Liga Segunda Division",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/SP2.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "9495",
+      "season_label": "1994/1995",
+      "url": "https://www.football-data.co.uk/mmz4281/9495/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "9596",
+      "season_label": "1995/1996",
+      "url": "https://www.football-data.co.uk/mmz4281/9596/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "9697",
+      "season_label": "1996/1997",
+      "url": "https://www.football-data.co.uk/mmz4281/9697/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "9798",
+      "season_label": "1997/1998",
+      "url": "https://www.football-data.co.uk/mmz4281/9798/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "9899",
+      "season_label": "1998/1999",
+      "url": "https://www.football-data.co.uk/mmz4281/9899/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "9900",
+      "season_label": "1999/2000",
+      "url": "https://www.football-data.co.uk/mmz4281/9900/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0001",
+      "season_label": "2000/2001",
+      "url": "https://www.football-data.co.uk/mmz4281/0001/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0102",
+      "season_label": "2001/2002",
+      "url": "https://www.football-data.co.uk/mmz4281/0102/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0203",
+      "season_label": "2002/2003",
+      "url": "https://www.football-data.co.uk/mmz4281/0203/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0304",
+      "season_label": "2003/2004",
+      "url": "https://www.football-data.co.uk/mmz4281/0304/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0405",
+      "season_label": "2004/2005",
+      "url": "https://www.football-data.co.uk/mmz4281/0405/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0506",
+      "season_label": "2005/2006",
+      "url": "https://www.football-data.co.uk/mmz4281/0506/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0607",
+      "season_label": "2006/2007",
+      "url": "https://www.football-data.co.uk/mmz4281/0607/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0708",
+      "season_label": "2007/2008",
+      "url": "https://www.football-data.co.uk/mmz4281/0708/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0809",
+      "season_label": "2008/2009",
+      "url": "https://www.football-data.co.uk/mmz4281/0809/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "0910",
+      "season_label": "2009/2010",
+      "url": "https://www.football-data.co.uk/mmz4281/0910/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1011",
+      "season_label": "2010/2011",
+      "url": "https://www.football-data.co.uk/mmz4281/1011/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1112",
+      "season_label": "2011/2012",
+      "url": "https://www.football-data.co.uk/mmz4281/1112/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1213",
+      "season_label": "2012/2013",
+      "url": "https://www.football-data.co.uk/mmz4281/1213/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1314",
+      "season_label": "2013/2014",
+      "url": "https://www.football-data.co.uk/mmz4281/1314/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1415",
+      "season_label": "2014/2015",
+      "url": "https://www.football-data.co.uk/mmz4281/1415/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1516",
+      "season_label": "2015/2016",
+      "url": "https://www.football-data.co.uk/mmz4281/1516/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1617",
+      "season_label": "2016/2017",
+      "url": "https://www.football-data.co.uk/mmz4281/1617/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1718",
+      "season_label": "2017/2018",
+      "url": "https://www.football-data.co.uk/mmz4281/1718/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1819",
+      "season_label": "2018/2019",
+      "url": "https://www.football-data.co.uk/mmz4281/1819/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "1920",
+      "season_label": "2019/2020",
+      "url": "https://www.football-data.co.uk/mmz4281/1920/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "2021",
+      "season_label": "2020/2021",
+      "url": "https://www.football-data.co.uk/mmz4281/2021/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "2122",
+      "season_label": "2021/2022",
+      "url": "https://www.football-data.co.uk/mmz4281/2122/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "2223",
+      "season_label": "2022/2023",
+      "url": "https://www.football-data.co.uk/mmz4281/2223/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/T1.csv"
+    },
+    {
+      "country": "Turkey",
+      "division_code": "T1",
+      "division_name": "Futbol Ligi 1",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/T1.csv"
+    }
+  ]
+}

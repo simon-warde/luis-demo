@@ -1,0 +1,10 @@
+# Downloaded results CSVs — regenerate with `python download_results.py`
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/

@@ -1,0 +1,103 @@
+{
+  "description": "England top 4 divisions (Premier League, Championship, League 1, League 2) for the last 3 completed seasons: 2023/24, 2024/25 and 2025/26.",
+  "base_url": "https://www.football-data.co.uk/mmz4281",
+  "output_dir": "data",
+  "downloads": [
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2324",
+      "season_label": "2023/2024",
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2425",
+      "season_label": "2024/2025",
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E3.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E0",
+      "division_name": "Premier League",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E0.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E1",
+      "division_name": "Championship",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E1.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E2",
+      "division_name": "League 1",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E2.csv"
+    },
+    {
+      "country": "England",
+      "division_code": "E3",
+      "division_name": "League 2",
+      "season_code": "2526",
+      "season_label": "2025/2026",
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E3.csv"
+    }
+  ]
+}
